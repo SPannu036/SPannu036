@@ -51,4 +51,4 @@ Recently completed a Bachelors of Applied Science in Cybersecurity at George Mas
 
 
 ## Projects
-- Home Lab Setup
+- <a href="https://github.com/SPannu036/Home-Lab-Setup/blob/main/README.md">Home Lab Setup</a>
