@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I am a recent graduate with a profound interest in technology, cybersecurity, and a dedication to solving complex problems and self-improvement.
+I am a recent graduate with an interest in technology, cybersecurity, and a dedication to solving complex problems and self-improvement.
 
 ## Objective
 
@@ -13,7 +13,7 @@ Recently completed a Bachelors of Applied Science in Cybersecurity at George Mas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  | |
+| Virtualization                                | <a href="https://github.com/SPannu036/Home-Lab-Setup/blob/main/README.md">Home Lab Setup</a>|
 
 
 ## Tools
