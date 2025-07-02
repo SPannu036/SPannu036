@@ -51,4 +51,4 @@ Recently completed a Bachelors of Applied Science in Cybersecurity at George Mas
 
 
 ## Projects
-- 
+- Home Lab Setup
